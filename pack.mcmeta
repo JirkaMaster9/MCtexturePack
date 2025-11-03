@@ -1,6 +1,10 @@
 {
   "pack": {
     "pack_format": 64,
-    "description": ":D"
+    "description": ":D",
+    "supported_formats": {
+      "max_inclusive": 99,
+      "min_inclusive": 1
+    }
   }
 }
